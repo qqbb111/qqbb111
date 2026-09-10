@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.jpg" width="100%" alt="Attack on Titan illustration" />
 </p>
 
-<h1 align="center">Hi, I'm qqbb 👋 <img src="assets/cursor.svg" width="8" height="26" alt="" /></h1>
+<h1 align="center">Hi, I'm qqbb 👋</h1>
 
 <p align="center">
   <strong>C++ / Linux Developer</strong><br />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/tech-badges.svg" width="350" alt="C++, Linux, CMake, Git, Python" />
+  <img src="assets/tech-badges.svg" width="310" alt="C++, Linux, fork/exec, Socket.IO" />
 </p>
 
 <table>
@@ -24,9 +24,12 @@
 <tr>
 <td valign="top">
 
-🎓 Computer Science undergraduate  
+🎓 **Computer Science undergraduate**  
+<br><br>
 🥇 **GPLT National First Prize**  
+<br>
 🥈 **Zhejiang Provincial Collegiate Programming Contest Silver Medal**  
+<br>
 🥉 **ICPC Regional Bronze Medal**
 
 </td>
