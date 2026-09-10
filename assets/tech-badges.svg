@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="34" viewBox="0 0 350 34" role="img" aria-label="C++, Linux, CMake, Git, Python">
+  <style>
+    .pill { stroke-width: 1; }
+    .blue { fill: #0969da; fill-opacity: .10; stroke: #0969da; stroke-opacity: .34; }
+    .gray { fill: #57606a; fill-opacity: .10; stroke: #57606a; stroke-opacity: .30; }
+    .blue-text { fill: #0969da; }
+    .gray-text { fill: #57606a; }
+    text { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .blue { fill: #58a6ff; fill-opacity: .16; stroke: #79c0ff; stroke-opacity: .55; }
+      .gray { fill: #8b949e; fill-opacity: .16; stroke: #8b949e; stroke-opacity: .50; }
+      .blue-text { fill: #a5d6ff; }
+      .gray-text { fill: #c9d1d9; }
+    }
+  </style>
+  <g transform="translate(0 1)"><rect class="pill blue" width="55" height="30" rx="8"/><text class="blue-text" x="27.5" y="19" text-anchor="middle">C++</text></g>
+  <g transform="translate(63 1)"><rect class="pill blue" width="61" height="30" rx="8"/><text class="blue-text" x="30.5" y="19" text-anchor="middle">Linux</text></g>
+  <g transform="translate(132 1)"><rect class="pill gray" width="70" height="30" rx="8"/><text class="gray-text" x="35" y="19" text-anchor="middle">CMake</text></g>
+  <g transform="translate(210 1)"><rect class="pill gray" width="46" height="30" rx="8"/><text class="gray-text" x="23" y="19" text-anchor="middle">Git</text></g>
+  <g transform="translate(264 1)"><rect class="pill gray" width="70" height="30" rx="8"/><text class="gray-text" x="35" y="19" text-anchor="middle">Python</text></g>
+</svg>
