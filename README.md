@@ -12,7 +12,7 @@ Interested in Systems Programming, Networking and AI Infrastructure.
 </p>
 
 <p align="center">
-  <img src="assets/profile.jpg" width="560" alt="Jin An profile illustration" />
+  <img src="assets/profile-cropped.jpg" width="480" alt="Jin An profile illustration" />
 </p>
 
 ### About Me
