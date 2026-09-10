@@ -1,12 +1,14 @@
-<img src="assets/profile-character.png" height="280" align="right" alt="Anime character illustration" />
-
 # Hi, I'm qqbb 👋
+
+<img src="assets/profile-character.png" height="280" align="right" alt="Anime character illustration" />
 
 <strong>C++ / Linux Developer</strong><br />
 Interested in Systems Programming, Networking and AI Infrastructure.
 
 <strong>Computer Science undergraduate</strong><br />
-🥇 GPLT National First Prize · 🥈 Zhejiang Provincial Collegiate Programming Contest Silver Medal · 🥉 ICPC Regional Bronze Medal
+🥇 GPLT National First Prize<br />
+🥈 Zhejiang Provincial Collegiate Programming Contest Silver Medal<br />
+🥉 ICPC Regional Bronze Medal
 
 <br clear="right" />
 
