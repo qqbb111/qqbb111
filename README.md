@@ -2,6 +2,10 @@
 
 EN · [中文](#中文)
 
+<p align="center">
+  <img src="assets/profile-banner.jpg" width="100%" alt="Attack on Titan illustration" />
+</p>
+
 # Hi, I'm Jin An 👋 <img src="assets/cursor.svg" width="8" height="26" alt="" />
 
 **C++ / Linux Developer**  
@@ -9,10 +13,6 @@ Interested in Systems Programming, Networking and AI Infrastructure.
 
 <p>
   <img src="assets/tech-badges.svg" width="350" alt="C++, Linux, CMake, Git, Python" />
-</p>
-
-<p>
-  <img src="assets/profile-cropped.jpg" width="480" alt="Jin An profile illustration" />
 </p>
 
 <table>
