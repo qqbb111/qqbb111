@@ -1,45 +1,36 @@
-<p align="center">
-  <img src="assets/profile-banner.jpg" width="100%" alt="Attack on Titan illustration" />
-</p>
+<img src="assets/profile-character.png" height="280" align="right" alt="Anime character illustration" />
 
-<h1 align="center">Hi, I'm qqbb 👋</h1>
+# Hi, I'm qqbb 👋
 
-<p align="center">
-  <strong>C++ / Linux Developer</strong><br />
-  Interested in Systems Programming, Networking and AI Infrastructure.
-</p>
+<strong>C++ / Linux Developer</strong><br />
+Interested in Systems Programming, Networking and AI Infrastructure.
 
-<p align="center">
-  <img src="assets/tech-badges.svg" width="310" alt="C++, Linux, fork/exec, Socket.IO" />
-</p>
+<strong>Computer Science undergraduate</strong><br />
+🥇 GPLT National First Prize · 🥈 Zhejiang Provincial Collegiate Programming Contest Silver Medal · 🥉 ICPC Regional Bronze Medal
+
+<br clear="right" />
 
 <table>
 <thead>
 <tr>
-<th align="center">About Me &amp; Awards</th>
-<th align="center">Featured Projects</th>
+<th align="center"><a href="https://github.com/qqbb111/MiniJudge">MiniJudge</a></th>
+<th align="center"><a href="https://github.com/qqbb111/GameHall">GameHall</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td valign="top">
 
-🎓 **Computer Science undergraduate**  
-<br><br>
-🥇 **GPLT National First Prize**  
-<br>
-🥈 **Zhejiang Provincial Collegiate Programming Contest Silver Medal**  
-<br>
-🥉 **ICPC Regional Bronze Medal**
+Lightweight Linux judge for isolated program execution, resource limits and verdict classification.
+
+`C++` `Linux` `fork/exec` `cgroup v2` `RLIMIT_AS`
 
 </td>
 <td valign="top">
 
-**[MiniJudge](https://github.com/qqbb111/MiniJudge)**  
-Lightweight Linux judge for isolated program execution, resource limits and verdict classification.<br><br>`C++` `Linux` `fork/exec` `cgroup v2` `RLIMIT_AS`
+Multiplayer game platform with real-time rooms and server-side game state.
 
-**[GameHall](https://github.com/qqbb111/GameHall)**  
-Multiplayer game platform with real-time rooms and server-side game state.<br><br>`TypeScript` `Node.js` `Socket.IO` `SQLite`
+`TypeScript` `Node.js` `Socket.IO` `SQLite`
 
 </td>
 </tr>
