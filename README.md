@@ -24,7 +24,7 @@
 <tr>
 <td valign="top">
 
-🎓 CS undergraduate at **Hangzhou Normal University · 2027**  
+🎓 Computer Science undergraduate  
 🥇 **GPLT National First Prize**  
 🥈 **Zhejiang Provincial Collegiate Programming Contest Silver Medal**  
 🥉 **ICPC Regional Bronze Medal**
@@ -33,10 +33,10 @@
 <td valign="top">
 
 **[MiniJudge](https://github.com/qqbb111/MiniJudge)**  
-Lightweight Linux judge focused on process isolation and resource control.
+Lightweight Linux judge for isolated program execution, resource limits and verdict classification.<br><br>`C++` `Linux` `fork/exec` `cgroup v2` `RLIMIT_AS`
 
-**GameHall** · *WIP*  
-AI-assisted multiplayer networking project with Node.js, Socket.IO and SQLite.
+**[GameHall](https://github.com/qqbb111/GameHall)**  
+Multiplayer game platform with real-time rooms and server-side game state.<br><br>`TypeScript` `Node.js` `Socket.IO` `SQLite`
 
 </td>
 </tr>
