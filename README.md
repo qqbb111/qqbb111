@@ -15,20 +15,20 @@ Focused on Systems Programming and Linux Networking.
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://github.com/qqbb111/MiniJudge">MiniJudge</a></th>
-<th align="center"><a href="https://github.com/qqbb111/GameHall">GameHall</a></th>
+<th width="50%" align="center"><a href="https://github.com/qqbb111/MiniJudge">MiniJudge</a></th>
+<th width="50%" align="center"><a href="https://github.com/qqbb111/GameHall">GameHall</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 Independently built Linux C++ judge with process control, cgroup v2 resource limits, verdict classification and fixed-worker parallel evaluation.
 
 `C++` `Linux` `fork/exec` `cgroup v2` `Multithreading`
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 Multiplayer game platform with real-time rooms and server-side game state.
 
