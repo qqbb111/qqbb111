@@ -3,9 +3,9 @@
 <img src="assets/profile-character.png" height="280" align="right" alt="Anime character illustration" />
 
 <strong>C++ / Linux Developer</strong><br />
-Interested in Systems Programming, Networking and AI Infrastructure.
+Focused on Systems Programming and Linux Networking.
 
-<strong>Computer Science undergraduate</strong><br />
+<strong>Computer Science undergraduate (Class of 2027)</strong><br />
 🥇 GPLT National First Prize<br />
 🥈 Zhejiang Provincial Collegiate Programming Contest Silver Medal<br />
 🥉 ICPC Regional Bronze Medal
@@ -23,9 +23,9 @@ Interested in Systems Programming, Networking and AI Infrastructure.
 <tr>
 <td valign="top">
 
-Lightweight Linux judge for isolated program execution, resource limits and verdict classification.
+Independently built Linux C++ judge with process control, cgroup v2 resource limits, verdict classification and fixed-worker parallel evaluation.
 
-`C++` `Linux` `fork/exec` `cgroup v2` `RLIMIT_AS`
+`C++` `Linux` `fork/exec` `cgroup v2` `Multithreading`
 
 </td>
 <td valign="top">
@@ -39,5 +39,5 @@ Multiplayer game platform with real-time rooms and server-side game state.
 </tbody>
 </table>
 
-🔭 Building C++ / Linux systems projects.  
-🌱 Learning networking, OS internals and AI infrastructure; exploring CUDA / LLM inference.
+🔭 Building MiniJudge and C++ / Linux systems projects.<br />
+🌱 Learning Linux network programming and OS internals.
