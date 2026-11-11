@@ -21,20 +21,12 @@ Focused on Systems Programming and Linux Networking.
 </thead>
 <tbody>
 <tr>
-<td width="50%" valign="top">
-
-Independently built Linux C++ judge with process control, cgroup v2 resource limits, verdict classification and fixed-worker parallel evaluation.
-
-`C++` `Linux` `fork/exec` `cgroup v2` `Multithreading`
-
-</td>
-<td width="50%" valign="top">
-
-Multiplayer game platform with real-time rooms and server-side game state.
-
-`TypeScript` `Node.js` `Socket.IO` `SQLite`
-
-</td>
+<td width="50%" valign="top">Independently built Linux C++ judge with process control, cgroup v2 resource limits, verdict classification and fixed-worker parallel evaluation.</td>
+<td width="50%" valign="top">Browser-based board games with invite-code rooms, solo practice, and server-authoritative game state.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><code>C++</code> <code>Linux</code> <code>fork/exec</code> <code>cgroup v2</code> <code>Multithreading</code></td>
+<td width="50%" valign="top"><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Socket.IO</code> <code>SQLite</code></td>
 </tr>
 </tbody>
 </table>
